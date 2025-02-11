@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 
 export default function Footer() {
   return (
-    <div className=" bg-black p-7 ">
+    <div className=" bg-black p-7 container">
       <div className="flex space-x-5 mb-3.5 text-white justify-center text-xl">
         <a href="https://www.instagram.com/infantryan89/" target="_blank"  className="hover:text-[#09ebdf]"><FaInstagram /></a>
         <a href="https://www.linkedin.com/in/infant-ryan/" target="_blank"  className="hover:text-[#09ebdf]"><FaLinkedinIn /></a>
