@@ -2,7 +2,7 @@ import { ReactTyped } from "react-typed";
 
 export default function Home() {
   return (
-    <div className="bg-black container mx-[100] p-7 md:py-44 text-white flex justify-center">
+    <div className="bg-black container mx-[100%] p-7 md:py-44 text-white flex justify-center">
       <div className="w-[70%]  leading-loose">
         <h2 className="text-4xl font-bold pb-2.5">
           <span className="text-[#8137db]">Welcome</span> to My Portfolio!
