@@ -6,9 +6,27 @@ export default function Footer() {
   return (
     <div className=" bg-black p-7 container border-t border-gray-600">
       <div className="flex space-x-5 mb-3.5 text-white justify-center text-xl">
-        <a href="https://www.instagram.com/infantryan89/" target="_blank"  className="hover:text-[#09ebdf]"><FaInstagram /></a>
-        <a href="https://www.linkedin.com/in/infant-ryan/" target="_blank"  className="hover:text-[#09ebdf]"><FaLinkedinIn /></a>
-        <a href="https://github.com/INFANT-RYAN" target="_blank"  className="hover:text-[#09ebdf]"><FaGithub /></a>
+        <a
+          href="https://www.instagram.com/infantryan89/"
+          target="_blank"
+          className="hover:text-[#09ebdf]"
+        >
+          <FaInstagram />
+        </a>
+        <a
+          href="https://www.linkedin.com/in/infant-ryan/"
+          target="_blank"
+          className="hover:text-[#09ebdf]"
+        >
+          <FaLinkedinIn />
+        </a>
+        <a
+          href="https://github.com/INFANT-RYAN"
+          target="_blank"
+          className="hover:text-[#09ebdf]"
+        >
+          <FaGithub />
+        </a>
       </div>
       <div className="flex  justify-center text-white">
         <p>
@@ -17,7 +35,6 @@ export default function Footer() {
           <span className="text-[#8137db]">built</span> by <br />
           <center>Infant Ryan J</center>
         </p>
-        
       </div>
     </div>
   );
