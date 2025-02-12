@@ -1,6 +1,6 @@
 import { BsTools } from "react-icons/bs";
 
-export default function Project() {
+export default function Projects() {
   return (
     <div className="bg-black p-56  border-b border-gray-600">
       <div className="flex items-center gap-3 text-4xl text-white font-semibold">
