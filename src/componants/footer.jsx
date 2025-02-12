@@ -17,6 +17,7 @@ export default function Footer() {
           <span className="text-[#8137db]">built</span> by <br />
           <center>Infant Ryan J</center>
         </p>
+        
       </div>
     </div>
   );
