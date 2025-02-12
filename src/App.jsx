@@ -6,7 +6,7 @@ export default function App() {
   return (
     <>
       <Nav></Nav>
-      <Home></Home>
+      <Home/>
       <Footer></Footer>
     </>
   );

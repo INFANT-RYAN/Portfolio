@@ -2,7 +2,7 @@ import { MdMenu } from "react-icons/md";
 
 export default function Nav() {
   return (
-    <div className="bg-black p-6 container max-[100%]:] border-b border-gray-600">
+    <div className="bg-purple-950 p-6 container max-[100%]:] border-b border-gray-600">
       <div className=" flex justify-between px-8 ">
         <div></div>
         <nav>
