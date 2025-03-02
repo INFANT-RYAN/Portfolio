@@ -2,9 +2,9 @@ import { ReactTyped } from "react-typed";
 
 export default function Home() {
   return (
-    <div className="container bg-black text-gray-300 md:p-56 border-b border-gray-600">
+    <div className="container bg-black text-gray-300 md:p-56 p-3 border-b border-gray-600">
       <div className="font-semibold">
-        <h1 className="text-4xl pb-3.5">
+        <h1 className="md:text-4xl text-2xl pb-3.5">
           <ReactTyped
             className="bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 inline-block text-transparent bg-clip-text"
             strings={[
@@ -27,10 +27,10 @@ export default function Home() {
           />{" "}
           to my portfolio
         </h1>
-        <h2 className="text-2xl pb-4"> &#x1F44B; hi I am Infant Ryan J. ,</h2>
+        <h2 className="text-xl pb-4"> &#x1F44B; hi I am Infant Ryan J. ,</h2>
       </div>
-      <div>
-        <p className="text-lg">
+      <div className="">
+        <p className="md:text-lg  text-justify">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium,
           repellendus? Lorem ipsum dolor sit amet consectetur, adipisicing elit.
           Nisi sed ab dolore nostrum laboriosam magnam blanditiis vel
