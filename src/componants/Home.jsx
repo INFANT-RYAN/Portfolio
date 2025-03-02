@@ -2,7 +2,7 @@ import { ReactTyped } from "react-typed";
 
 export default function Home() {
   return (
-    <div className="container bg-black text-gray-300 p-56 border-b border-gray-600">
+    <div className="container bg-black text-gray-300 md:p-56 border-b border-gray-600">
       <div className="font-semibold">
         <h1 className="text-4xl pb-3.5">
           <ReactTyped
