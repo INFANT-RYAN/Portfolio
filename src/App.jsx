@@ -2,7 +2,7 @@ import Footer from "./componants/footer";
 import Nav from "./componants/navbar";
 import Home from "./componants/Home";
 import Education from "./componants/Education";
-import Abt from "./componants/abt";
+import Abt from "./componants/Abt";
 import Projects from "./componants/Projects";
 import Exp from "./componants/Exp";
 
